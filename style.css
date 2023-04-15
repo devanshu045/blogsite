@@ -1,0 +1,255 @@
+*{  
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    overflow-x: hidden;
+}
+/*navebar*/
+.navebar{
+    border-bottom: 2px solid;
+    height: 60px;
+}
+.company-name{
+    float: left;
+    font-size: 20px;
+    margin: 5px 0px 0 35px ;
+}
+.company-name-headingtag{
+    margin-top: 2px;
+}
+.navebar-feature{
+    float: right;
+    margin: 22px 15px 0 0 ;
+}
+.navebar-feature li{
+    display: inline;
+    font-size: 22px;
+    margin: 40px;
+}
+li:hover{
+    border-bottom: 3px solid;
+}
+/*few-container*/
+.few-container{
+    height: 300px;
+    text-align: center;
+}
+.few-heading{
+    height: 100px;
+    width: 520px;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.few-info{
+    font-size: 20px;
+    margin-top: 20px;
+    width: 420px;
+    margin-left: 470px;
+}
+/*image*/
+.image-set{
+    width: 100%;
+    height: 20%;
+}
+/*review*/
+.review-container{
+    margin-left: 350px;
+    width: 50%;
+    position: relative;
+    
+}
+.review-details{
+    margin-top: 30px;
+    width: 100%;
+    height: 100px;
+}
+.review-name{
+    position: relative;
+}
+.review-image{
+   display: inline-block;
+   float: left;
+   border-radius: 50px;
+   height: 50px;
+}
+.review-socialmedia{
+    display: inline-block;
+    position: absolute;
+    top: 1px;
+    margin-left: 40px;
+    right: 20px;
+}
+.review-socialmedia img{
+    padding: 20px;
+}
+.review-information{
+    font-size: 20px;
+    
+}
+.review-information p{
+ margin: 40px 0 50px 0;
+ line-height: 200%;
+}
+.man-image-setting{
+    height: 500px;
+    width: 820px;
+}
+.man-image{
+    text-align: center;
+}
+.man-image p{
+    display: inline-block;
+     width: 600px;
+}
+.image-details{
+    height: 700px;
+    width: 650px;
+    margin-left: 360px;
+}
+.image-details p {
+    font-size: 20px;
+    margin: 35px 0 50px 0;
+    line-height: 180%;
+}
+.image-details ul{
+margin: 20px;
+height: 160px;
+font-size: 20px;
+}
+li{
+    padding: 10px;
+}
+/*btn*/
+.btnfb-twitter{
+    display: inline-block;
+    padding: 20px 40px 20px 230px;
+    width: 800px;
+    margin:0 10% 0 10%;
+}
+.btn-first,.btn-sec{
+    border: 1px solid;
+    padding: 10px 100px 10px 100px;
+}
+.btnfb-twitter p{
+    margin-top: 20px;
+}
+/*revieragain*/
+.revier-again{
+    display: inline-block;
+    margin: 10px 0 0 400px;
+}
+.again-img{
+float: left;
+}
+.revie-info{
+    float: right;
+    width: 500px;
+    height: 100px;
+}
+/**/
+.six-images{
+    height: 720px;
+}
+.six-images h1{
+    text-align: center;
+    margin-top: 20px;
+}
+.images-info{
+    height: 80px;
+    width: 320px;
+}
+.img{
+height: 700px;
+width: 1200px;
+margin-left: 130px;
+}
+.image-container1{
+    float: left;
+    margin: 10px 20px 20px 20px;
+}
+.image-container1 img{
+    height: 200px;
+    width: 320px;
+}
+/*singup*/
+.sign-up{
+    border: 2px solid;
+    border-top: 8px solid;
+    padding: 20px;
+    height: 200px;
+    width: 500px;
+    margin: 10px 0 50px 420px;
+}
+.sign-up h1{
+    text-align: center;
+    font-size: 40px;
+}
+.sign-up p{
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+}
+.sign-up input{
+    text-align: center;
+    margin: 20px 0 0 70px;
+    width: 60%;
+    font-size: 20px;
+}
+.sign-up button{
+    color: white;
+    background-color: black;
+    border: 2px solid while;
+    border-radius: 3px;
+    padding:6px 17px 6px 17px;
+}
+/*footer*/
+.footer{
+    border: 3px solid;
+    color: white;
+    background-color: black;
+   height: 300px;
+}
+.repeat-words{
+    display: block;
+    overflow: hidden;
+    height: 25px;
+}
+.logoname{
+    text-align: center;
+    margin: 20px 0 20px 0;
+    font-size: 40px;
+}
+.lofo-detailsh{
+    height: 70px;
+    width: 500px;
+    margin: 10px 0 10px 420px;
+}
+.link{
+text-align: center;
+}
+.link  a {
+    padding: 20px;
+    color: white;
+}
+.found-date{
+    text-align: center;
+    display: inline-block;
+    margin: 20px 0 20px 540px;
+    font-size: 20px;
+    width: 280px;
+}
+
+.review-image img{
+    height: 60px;
+    width: 60px;
+    border-radius: 20px;
+}
+.again-img img{
+    height: 60px;
+    width: 60px;
+    border-radius: 20px;
+    margin-right: 10px;
+}
